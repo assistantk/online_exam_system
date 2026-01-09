@@ -1,0 +1,7 @@
+{
+  "name": "iit jam Online Testing System",
+  "description": "A high-fidelity online examination portal replica featuring a secure login, instruction modules, timer-based exam interface, question palette navigation, and real-time result processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
